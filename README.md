@@ -82,7 +82,7 @@ $ kubectl describe nodes
 $ kubectl get namespace
 $ kubectl get pods --all-namespaces
 
-
+ 
 
 
 ```
